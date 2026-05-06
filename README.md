@@ -1,2 +1,2 @@
-# final_lis4693
+# final-project
 Shared repository
