@@ -4,4 +4,4 @@ The copendium contains the data and notebooks associated with the final project.
   * The `DescriptiveAnalysis.ipynb` notebook contains the code used to make basic and advanced viusals using Altair
   * The `MachineLearning.ipynb` notebook contains the code used to make the machine learning model
   * The `SentimentAnalysis.ipynb` notebook contains the code used the make the sentiment analysis
-  * The `imdb_tvshow.csv` file contains the data used to run the previous notebooks. It holds rating and review information on 10 TV Shows.
+  * The `imdb_tvshow.csv` file contains the data used to run the previous notebooks. It holds rating and review information on 10 TV Shows
