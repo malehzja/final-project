@@ -3,7 +3,7 @@ This project analyzed IMBD TV Show Ratings. The copendium contains the data and 
 * The `final-project\` folder contains the workflow for the final project:
   * The `Figures and Visualizations\` folder contains png images of every figure produced in the project
   * The `DescriptiveAnalysis.ipynb` notebook contains the code used to make basic and advanced viusals using Altair
-  * The `LIS 4693-995 Final Project Presentation.pdf` file is the poster created for the poster presentation
+  * The `LIS 4693-995 Final Project Poster.pdf` file is the poster created for the poster presentation
   * The `MachineLearning.ipynb` notebook contains the code used to make the machine learning model
   * The `SentimentAnalysis.ipynb` notebook contains the code used to make the sentiment analysis
   * The `TopicModeling.ipynb` notebook contains the code used to make the topic model
