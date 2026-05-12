@@ -1,5 +1,5 @@
 # final-project
-This project analyzed IMBD TV Show Ratings. The copendium contains the data and notebooks associated with the final project. Each notebook corresponds to the task asked to complete - 2 (did 3) text analysis methods learnt in LIS 4/5693 and 1 machine learning model. The methods chosen were Sentiment Analysis, Descriptive Analysis and Visualization using Altair, and Topic Modeling. It is organized as follows:
+This project analyzed IMBD TV Show ratings and reviews. The copendium contains the data and notebooks associated with the final project. Each notebook corresponds to the task asked to complete - 2 (did 3) text analysis methods learnt in LIS 4/5693 and 1 machine learning model. The methods chosen were Sentiment Analysis, Descriptive Analysis and Visualization using Altair, and Topic Modeling. It is organized as follows:
 * The `final-project\` folder contains the workflow for the final project:
   * The `Figures and Visualizations\` folder contains png images of every figure produced in the project
   * The `DescriptiveAnalysis.ipynb` notebook contains the code used to make basic and advanced viusals using Altair
